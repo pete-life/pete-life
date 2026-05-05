@@ -9,8 +9,8 @@ I build for small Danish companies and play with AI agents on the side. Most of 
 - **AI agent infrastructure** - a stack of agents (Claude Code, Codex, a Telegram bot on a Mac mini) that share one markdown vault as canonical memory. Writeup: [shared-memory-agent-stack](https://gist.github.com/pete-life/e0ddbe22c75044c6af19f79aa4e1a25d).
 - **Tiny Agency** - web dev, Shopify, app dev, AI/automation for Danish SMBs.
 - **CapFlow** - booking platform for sports facilities.
-- **StellaCV** - resume/CV builder focused on beating ATS screeners while still looking good to humans.
-- **BookingStarter** - single-property booking platform (Next.js, Supabase, Stripe) for small operators.
+- **[StellaCV](https://stellacv.com)** - resume/CV builder focused on beating ATS screeners while still looking good to humans.
+- **[BookingStarter](https://bookingstarter.com)** - single-property booking platform (Next.js, Supabase, Stripe) for small operators.
 
 ## Tech I reach for
 
@@ -18,7 +18,7 @@ TypeScript, Next.js, Astro, Supabase, Convex, Shopify, Python for the agent laye
 
 ## Get in touch
 
-- Email: peterandreaslarsen@gmail.com
+- Email: peter@tinyagency.io (work) or peterandreaslarsen@gmail.com (personal)
 - GitHub: you're already here
 
 [![](https://img.shields.io/badge/-Tiny%20Agency-000?style=flat-square)](https://github.com/pete-life)
