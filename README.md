@@ -1,8 +1,8 @@
 # Peter Larsen
 
-Founder at [Tiny Agency](https://tinyagency.io). Based in Thy, Denmark.
+Agentic engineer & builder. Founder at [Tiny Agency](https://tinyagency.io). Based in Thy, Denmark.
 
-I build for small Danish companies and play with AI agents on the side. Most of the day-to-day work lives in private repos for clients - public surface here is intentionally light.
+I ship AI products, apps and internal tools, and advise teams on AI, tech and business. Most of the day-to-day work lives in private repos for clients - public surface here is intentionally light.
 
 ## What I'm working on
 
