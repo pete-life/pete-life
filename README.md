@@ -1,6 +1,6 @@
 # Peter Larsen
 
-Founder at [Tiny Agency](https://github.com/pete-life). Based in Thy, Denmark.
+Founder at [Tiny Agency](https://tinyagency.io). Based in Thy, Denmark.
 
 I build for small Danish companies and play with AI agents on the side. Most of the day-to-day work lives in private repos for clients - public surface here is intentionally light.
 
@@ -21,4 +21,4 @@ TypeScript, Next.js, Astro, Supabase, Convex, Shopify, Python for the agent laye
 - Email: peter@tinyagency.io (work) or peterandreaslarsen@gmail.com (personal)
 - GitHub: you're already here
 
-[![](https://img.shields.io/badge/-Tiny%20Agency-000?style=flat-square)](https://github.com/pete-life)
+[![](https://img.shields.io/badge/-Tiny%20Agency-000?style=flat-square)](https://tinyagency.io)
