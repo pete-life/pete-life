@@ -1,24 +1,25 @@
 # Peter Larsen
 
-Agentic engineer & builder. Founder at [Tiny Agency](https://tinyagency.io). Based in Thy, Denmark.
+I build AI products, Shopify apps and internal tools for businesses. Founder at [Tiny Agency](https://tinyagency.io), based in Thy, Denmark.
 
-I ship AI products, apps and internal tools, and advise teams on AI, tech and business. Most of the day-to-day work lives in private repos for clients - public surface here is intentionally light.
+I work across product development, automation and the business behind the software. Previously, I co-founded Happy Helper and served as COO.
 
 ## What I'm working on
 
-- **AI agent infrastructure** - a stack of agents (Claude Code, Codex, a Telegram bot on a Mac mini) that share one markdown vault as canonical memory. Writeup: [shared-memory-agent-stack](https://gist.github.com/pete-life/e0ddbe22c75044c6af19f79aa4e1a25d).
-- **Tiny Agency** - web dev, Shopify, app dev, AI/automation for Danish SMBs.
-- **[CapFlow](https://capflowbooking.com)** - booking platform for sports facilities. App Store launch pending Shopify review; documentation and help guides live now.
-- **[StellaCV](https://stellacv.com)** - resume/CV builder focused on beating ATS screeners while still looking good to humans.
-- **[BookingStarter](https://bookingstarter.com)** - single-property booking platform (Next.js, Supabase, Stripe) for small operators.
+- **[CapFlow Booking](https://apps.shopify.com/capflow-booking)** - booking and capacity management for Shopify. Live at Copenhagen Cable Park, handling sessions, memberships and shared capacity.
+- **[Unforgetter](https://unforgetter.com)** - shared memory for AI assistants, keeping context and decisions available across tools and conversations. Currently in private alpha.
+- **[Tiny Agency](https://tinyagency.io)** - websites, apps, Shopify development and AI automation for small businesses. I build the products and work directly with clients.
+
+I'm particularly interested in how AI agents can work together and retain useful context over time. Much of my client work lives in private repositories.
+
+## Other projects
+
+[BookingStarter](https://bookingstarter.com), a booking platform for single properties, and [StellaCV](https://stellacv.com), a resume builder.
 
 ## Tech I reach for
 
-TypeScript, Next.js, Astro, Supabase, Convex, Shopify, Python for the agent layer.
+TypeScript, Next.js, Astro, Supabase, Convex, Shopify and Python.
 
 ## Get in touch
 
-- Email: peter@tinyagency.io (work) or peterandreaslarsen@gmail.com (personal)
-- GitHub: you're already here
-
-[![](https://img.shields.io/badge/-Tiny%20Agency-000?style=flat-square)](https://tinyagency.io)
+[peter@tinyagency.io](mailto:peter@tinyagency.io) · [tinyagency.io](https://tinyagency.io)
