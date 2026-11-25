@@ -1,6 +1,6 @@
 # Peter Larsen
 
-I build AI products, Shopify apps and internal tools for businesses. Founder at [Tiny Agency](https://tinyagency.io), based in Thy, Denmark.
+I build AI products, apps and internal tools for businesses. Founder at [Tiny Agency](https://tinyagency.io), based in Thy, Denmark.
 
 I work across product development, automation and the business behind the software. Previously, I co-founded Happy Helper and served as COO.
 
