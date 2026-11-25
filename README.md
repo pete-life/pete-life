@@ -6,19 +6,12 @@ I work across product development, automation and the business behind the softwa
 
 ## What I'm working on
 
-- **[CapFlow Booking](https://apps.shopify.com/capflow-booking)** - booking and capacity management for Shopify. Live at Copenhagen Cable Park, handling sessions, memberships and shared capacity.
-- **[Unforgetter](https://unforgetter.com)** - shared memory for AI assistants, keeping context and decisions available across tools and conversations. Currently in private alpha.
+- **[Unforgetter](https://unforgetter.com)** - personal memory for Claude, ChatGPT, Grok Bot and other AI apps, so context and decisions stay available across tools and conversations.
+- **[Unfaded](https://unfaded.io)** - save pages, links, images and notes, then find them later. [Chrome extension](https://chromewebstore.google.com/detail/unfaded/cjmicgmfihljmhfjcfdckebbhhogmkag), and agent-native via MCP.
+- **[CapFlow Booking](https://apps.shopify.com/capflow-booking)** - booking and capacity management for Shopify, handling sessions, memberships and shared capacity across locations.
 - **[Tiny Agency](https://tinyagency.io)** - websites, apps, Shopify development and AI automation for small businesses. I build the products and work directly with clients.
 
 I'm particularly interested in how AI agents can work together and retain useful context over time. Much of my client work lives in private repositories.
-
-## Other projects
-
-[BookingStarter](https://bookingstarter.com), a booking platform for single properties, and [StellaCV](https://stellacv.com), a resume builder.
-
-## Tech I reach for
-
-TypeScript, Next.js, Astro, Supabase, Convex, Shopify and Python.
 
 ## Get in touch
 
